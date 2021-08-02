@@ -11,9 +11,9 @@
      <td>Bottom Section of Email</td>
   </tr>
   <tr>
-    <td><img src="img/headspace-top.png" width=202.5 ></td>
-    <td><img src="img/headspace-top-middle.png" width=202.5 ></td>
-    <td><img src="img/headspace-middle.png" width=202.5 ></td>
-    <td><img src="img/headspace-bottom.png" width=202.5 ></td>
+    <td><img src="img/headspace-top-600px.png" width=202.5 ></td>
+    <td><img src="img/headspace-top-middle-600px.png" width=202.5 ></td>
+    <td><img src="img/headspace-middle-600px.png" width=202.5 ></td>
+    <td><img src="img/headspace-bottom-600px.png" width=202.5 ></td>
   </tr>
  </table>
