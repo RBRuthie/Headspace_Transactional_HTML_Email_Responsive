@@ -5,15 +5,11 @@
 
 <table>
   <tr>
-      <td>Main Section of Email</td>
-     <td>Middle Section of Email</td>
-     <td>Middle Section of Email</td>
+     <td>Main Section of Email</td>
      <td>Bottom Section of Email</td>
   </tr>
   <tr>
     <td><img src="img/headspace-top-600px.png" width=202.5 ></td>
-    <td><img src="img/headspace-top-middle-600px.png" width=202.5 ></td>
-    <td><img src="img/headspace-middle-600px.png" width=202.5 ></td>
     <td><img src="img/headspace-bottom-600px.png" width=202.5 ></td>
   </tr>
  </table>
